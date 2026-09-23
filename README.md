@@ -15,6 +15,6 @@ Enter the **day**, **month** and **year** of birth, press **Submit**, and your e
 - HTML, CSS, vanilla JavaScript
 - No dependencies — runs entirely in the browser
 
-## Credits
+## Author
 
-Original project by [@programwith.fun](https://www.youtube.com/@programwith.fun) — published here with a cleaned-up title and this README.
+Created by **Erion Nezha**.
